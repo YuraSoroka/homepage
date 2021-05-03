@@ -7,3 +7,5 @@ My very own personal website. Basically this is just a résumé.
 # Do you agree?
 - [x] Yes
 
+# Preview :mag:
+![Preview](https://github.com/YuraSoroka/homepage/blob/develop/assets/preview.png)
