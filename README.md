@@ -9,3 +9,5 @@ My very own personal website. Basically this is just a résumé.
 
 # Preview :mag:
 ![Preview](https://github.com/YuraSoroka/homepage/blob/develop/assets/preview.png)
+
+🧙Hocus-pocus!
